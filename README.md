@@ -78,7 +78,7 @@
 <img width="45%"align="left" src="https://github-readme-stats.vercel.app/api?username=anita00001&show_icons=true&locale=en" alt="anita00001"><img width="45%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=anita00001&" alt="anita00001">
 </p><br><br><br><br><br><br><br>
 
-<h3 align="left">Support:<a href="https://github.com/anita00001"><img align="right" width="40%" height="250" src="https://media.istockphoto.com/id/1160894168/photo/return-visit-coming-back-again-map-pin-location-directions-3d-illustration.jpg?b=1&s=170667a&w=0&k=20&c=3hF0GnSNzX7Cc-0dbBXdd9yMCHnPyEt66z2bAhmqhw0=" /><a></h3>
+<h3 align="left">Support:<a href="https://github.com/anita00001"><img align="right" width="40%" height="200" src="https://media.istockphoto.com/id/1160894168/photo/return-visit-coming-back-again-map-pin-location-directions-3d-illustration.jpg?b=1&s=170667a&w=0&k=20&c=3hF0GnSNzX7Cc-0dbBXdd9yMCHnPyEt66z2bAhmqhw0=" /><a></h3>
 <p align="left"><a href="https://www.buymeacoffee.com/AnitaSharma"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="80" width="40%" alt="AnitaSharma" /></a></p>
 <br><br><br>
 
