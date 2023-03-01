@@ -1,11 +1,11 @@
 <h1 align="center">Greetings! 👋, I'm Anita Sharma.</h1>
 <h2 align="center">What brings you here today?</h2>
 <img align="left" alt="say hi" width="50%" height="300" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif"><img align="right" alt="life of a programmer" width="50%" height="300" src="life-of-a-programmer.gif">
-<img align="right" alt="animated coding girl" width="30%" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<img align="right" alt="animated coding girl" width="20%" height="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anita00001&label=Profile%20views&color=0e75b6&style=flat" alt="anita00001" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anita00001" alt="anita00001" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="70%" src="https://github-profile-trophy.vercel.app/?username=anita00001" alt="anita00001" /></a> </p>
 
 
 - 🔭 I’m currently working on **Microverse Full Stack Web Development Program**
@@ -72,13 +72,16 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
+
 <h3 align="left">Stats:</h3>
 <p align="left">
-<a><img align="left" src="https://github-readme-stats.vercel.app/api?username=anita00001&show_icons=true&locale=en" alt="anita00001" /> </a><a><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=anita00001&" alt="anita00001" /> </a>
-</p><br>
+<img width="45%" height="200" align="left" src="https://github-readme-stats.vercel.app/api?username=anita00001&show_icons=true&locale=en" alt="anita00001" /><img width="45%" height="200" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=anita00001&" alt="anita00001" />
+</p><br><br><br><br><br><br><br><br>
+
 <h3 align="left">Support:<a href="https://github.com/anita00001"><img align="right" width="40%" height="250" src="https://media.istockphoto.com/id/1160894168/photo/return-visit-coming-back-again-map-pin-location-directions-3d-illustration.jpg?b=1&s=170667a&w=0&k=20&c=3hF0GnSNzX7Cc-0dbBXdd9yMCHnPyEt66z2bAhmqhw0=" /><a></h3>
 <p align="left"><a href="https://www.buymeacoffee.com/AnitaSharma"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="80" width="40%" alt="AnitaSharma" /></a></p>
 <br><br><br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anitaa_sharmaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anitaa_sharmaa" height="40" width="60" /></a>
