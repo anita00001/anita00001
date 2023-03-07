@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="70%" src="https://github-profile-trophy.vercel.app/?username=anita00001" alt="anita00001" /></a> </p>
 
 
-- 🔭 I’m currently working on **Microverse Full Stack Web Development Program**
+- 🔭 I’m currently working on **Microverse Full-stack Web Development Program**
 
 - 🌱 I’m currently learning **Ruby, Ruby on Rails** 
 
@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/anita00001/anita00001](github.com/anita00001/anita00001) 
 
-- 💬 Ask me about **HTML, CSS and Javascript** 
+- 💬 Ask me about **HTML, CSS and JavaScript** 
 
 - 📫 How to reach me **sharma.anita00001@gmail.com**
 
