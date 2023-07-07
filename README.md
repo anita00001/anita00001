@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Microverse Full-stack Web Development Program**
 
-- 🌱 I’m currently learning **Ruby, Ruby on Rails** 
+- 🌱 I’m currently learning **Javascript and React** 
 
 - 👯 I’m looking to collaborate on **GitHub** <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=anita00001&show_icons=true&locale=en&layout=compact" alt="anita00001" />
 
